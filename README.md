@@ -2,7 +2,7 @@
 Gives Xamarin.iOS bindings support for Swift 2.3
 
 <h2>Warning</h2>
-Xcode 8.3 no longer provide the dylibs for Swift 2.3, if you are still using this library, please move to Swift3
+As of version 8.3 Xcode no longer provide the dylibs for Swift 2.3, if you are still using this library, please move to Swift3
 
 https://github.com/Flash3001/Xamarin.Swift3.Support 
 
